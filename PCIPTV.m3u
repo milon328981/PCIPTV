@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:63,NTV
+#EXTINF:1,Banglavission
 http://103.205.133.48/hls/banglavision.m3u8
 #EXTINF:0,Bangla Vision HD
 http://103.205.133.20/hls/banglavision.m3u8
@@ -3329,7 +3329,7 @@ https://botallen.live/z/0-9-zing/master.m3u8?signature=fe2a5d170c86c7b0f1d0b9ad4
 https://botallen.live/z/0-9-zeetvhd/master.m3u8?signature=612c0f85d1f12c1d5089445971b614e714f2df30&unique=383dc6ddcdd3b7166230423ea3b90f6e
 #EXTINF:117,Zee Telugu
 https://botallen.live/z/0-9-zeetelugu/master.m3u8?signature=bb3b062656eb4600a277eb3251f367e3bc9a7285&unique=383dc6ddcdd3b7166230423ea3b90f6e
-#EXTINF:118,Zee Café HD
+#EXTINF:118,Zee CafÃ© HD
 https://botallen.live/z/0-9-zeecafehd/master.m3u8?signature=13fc11154791143eb2b8e3fef2370dc4d4b7e635&unique=383dc6ddcdd3b7166230423ea3b90f6e
 #EXTINF:119,Zee Bollywood
 https://botallen.live/z/0-9-zeeclassic/master.m3u8?signature=1bcfd47b664f7a8f8129ab6d958a336c12d836a9&unique=383dc6ddcdd3b7166230423ea3b90f6e
