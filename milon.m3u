@@ -1120,7 +1120,7 @@ http://180.210.191.2/hls/stream3.m3u8
 http://180.210.191.2/hls/stream11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Premium", Sony Ten 1 HD 
 http://180.210.191.2/hls/stream40.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Premium Connectivity", Sony Ten 2 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Premium", Sony Ten 2 HD 
 http://180.210.191.2/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Premium", Sony Six HD 
 http://180.210.191.2/hls/stream10.m3u8
