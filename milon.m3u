@@ -1143,10 +1143,10 @@ http://180.210.191.2/hls/stream36.m3u8
 
 
 #EXTINF:-1 tvg-id="GeminiTV HD " tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV HD 1
-http://212.224.98.196:2200/R-EX/TELUGU_GEMINI_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="GeminiTV HD 2" tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV HD 2
+
+#EXTINF:-1 tvg-id="GeminiTV HD 2" tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV HD 1
 https://suntvvodaf-live.s.llnwi.net/GeminiTVHD/GeminiTVHD.isml/manifest.mpd
-#EXTINF:-1 tvg-id="GeminiTV HD 3" tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV HD 3
+#EXTINF:-1 tvg-id="GeminiTV HD 3" tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV HD 2
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43601
 #EXTINF:-1 tvg-id="GeminiTV 1" tvg-name="Gemini TV" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV 1
 https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9017
