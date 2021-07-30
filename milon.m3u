@@ -1137,3 +1137,129 @@ http://180.210.191.2/hls/stream35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTT2Pq.png" group-title="Premium", BBC World 
 http://180.210.191.2/hls/stream36.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJMc4VQ.png" group-title="Premium", Macca 
+
+
+
+
+
+#EXTINF:-1 tvg-id="GeminiTV HD " tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV HD 1
+http://212.224.98.196:2200/R-EX/TELUGU_GEMINI_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="GeminiTV HD 2" tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV HD 2
+https://suntvvodaf-live.s.llnwi.net/GeminiTVHD/GeminiTVHD.isml/manifest.mpd
+#EXTINF:-1 tvg-id="GeminiTV HD 3" tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV HD 3
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43601
+#EXTINF:-1 tvg-id="GeminiTV 1" tvg-name="Gemini TV" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV 1
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9017
+#EXTINF:-1 tvg-id="GeminiTV 2" tvg-name="Gemini TV" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV 2
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4735
+#EXTINF:-1 tvg-id="GeminiTV 3" tvg-name="Gemini TV" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV 3
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4733
+#EXTINF:-1,tvg-id="Gemini Movies HD 1" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Telugu",Gemini Movies HD 1
+https://suntvvodaf-live.s.llnwi.net/GeminiMoviesHD/GeminiMoviesHD.isml/manifest.mpd
+#EXTINF:-1,tvg-id="Gemini Movies HD 2" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Telugu",Gemini Movies HD 2
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2801
+#EXTINF:-1,tvg-id="Gemini Movies HD 3" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Telugu",Gemini Movies HD 1
+http://pn.tvott.info/live/307271135111/307271135111/83981.m3u8
+#EXTINF:-1,tvg-id="Gemini Movies 1" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Telugu",Gemini Movies 1
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4734
+#EXTINF:-1,tvg-id="Gemini Movies 2" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Telugu",Gemini Movies 2
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9015
+#EXTINF:-1,tvg-id="GEMINI MUSIC HD 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Telugu",GEMINI MUSIC HD 1
+http://212.224.98.196:2200/R-EX/TELUGU_GEMINI_MUSIC-in/index.m3u8?token=
+#EXTINF:-1,tvg-id="GEMINI MUSIC HD 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Telugu",GEMINI MUSIC HD 2
+https://suntvvodaf-live.s.llnwi.net/GeminiMusicHD/GeminiMusicHD.isml/manifest.mpd
+#EXTINF:-1,tvg-id="GEMINI MUSIC HD 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Telugu",GEMINI MUSIC HD 3
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=GeminiMusicHD
+#EXTINF:-1,tvg-id="GEMINI MUSIC HD 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Telugu",GEMINI MUSIC HD 4
+http://212.102.60.40:2200/R-EX/FHD_GEMINI_MUSIC_-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,tvg-id="GEMINI MUSIC HD 5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Telugu",GEMINI MUSIC HD 5
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=GeminiMusicHD
+#EXTINF:-1,tvg-id="GEMINI MUSIC 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Telugu",GEMINI MUSIC 
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9026
+#EXTINF:-1,GEMINI LIFE 1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_life.png" group-title="Telugu",Gemini Life 1
+https://suntvvodaf-live.s.llnwi.net/GeminiLife/GeminiLife.isml/manifest.mpd
+#EXTINF:-1,GEMINI LIFE 2 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_life.png" group-title="Telugu",Gemini Life 2
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26572
+#EXTINF:-1,GEMINI LIFE 3 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_life.png" group-title="Telugu",Gemini Life 3
+http://212.102.60.40:2200/R-EX/TELUGU_GEMINI_LIFE-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,GEMINI LIFE 4 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_life.png" group-title="Telugu",Gemini Life 1
+http://pn.tvott.info/live/307271135111/307271135111/83980.m3u8
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Telugu",Gemini Comedy
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9027
+#EXTINF:-1,tvg-id="KUSHI TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kushi_tv.png" group-title="Telugu",KUSHI TV
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26571
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | ZEE TELUGU HD 1" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title=",TELUGU | ZEE TELUGU HD
+http://212.224.98.196:2200/R-EX/TELUGU_ZEE_TELUGU_HD-in/index.m3u8?token=rk
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | ZEE TELUGU HD 2" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title=",TELUGU | ZEE TELUGU HD
+http://pn.tvott.info/live/307271135111/307271135111/83982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | ZEE TELUGU 1" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title=",TELUGU | ZEE TELUGU
+
+#EXTINF:-1 tvg-name="ZEE CINEMALU HD 1" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU HD
+http://pn.tvott.info/live/307271135111/307271135111/83983.m3u8
+#EXTINF:-1 tvg-name="ZEE CINEMALU 2" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU
+https://ultimateiptv.tk/g.php?id=zcinemalusd
+#EXTINF:-1,tvg-id="STAR MAA HD 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Telugu",STAR MAA HD
+http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=rk
+#EXTINF:-1,tvg-id="STAR MAA HD 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Telugu",STAR MAA HD 2
+http://212.102.60.40:2200/R-EX/FHD_STAR_MAA_-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,tvg-id="STAR MAA HD 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Telugu",STAR MAA HD 2
+http://pn.tvott.info/live/307271135111/307271135111/83988.m3u8
+#EXTINF:-1,tvg-id="Star Maa Movies HD 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Telugu",Star Maa Movies HD
+http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=rk
+#EXTINF:-1,tvg-id="Star Maa Movies HD 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Telugu",Star Maa Movies HD 2
+http://212.102.60.40:2200/R-EX/FHD_STAR_MAA_MOV-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,tvg-id="STAR MAA GOLD 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Telugu",STAR MAA GOLD HD
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2837
+#EXTINF:-1,tvg-id="STAR MAA 1 " tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Telugu",STAR MAA TV
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6000
+#EXTINF:-1,tvg-id="Star Maa Movies 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Telugu",Star Maa Movies
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6001
+#EXTINF:-1,tvg-id="ETV HD 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Telugu",Etv HD
+http://212.224.98.208:2200/R-EX/TELUGU_ETV_HD-in/tracks-v1a1/mono.m3u8?token=RK
+#EXTINF:-1,tvg-id="ETV 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Telugu",ETV
+
+#EXTINF:-1,tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Telugu",ETV Cinema
+http://212.224.98.211:2200/R-EX/TELUGU_ETV_CINEMA_TELUGU_-in/tracks-v1a1/mono.m3u8?token=RK
+#EXTINF:-1,tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Telugu",ETV PLUS
+http://212.224.98.205:2200/R-EX/TELUGU_ETV_PLUS-in/tracks-v1a1/mono.m3u8?token=RK
+#EXTINF:-1,tvg-id="ETV LIFE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_life.png" group-title="Telugu",ETV LIFE
+http://185.180.15.15:2200/R-EX/TELUGU_ETV_LIFE-in/tracks-v1a1/mono.m3u8?token=Rk
+#EXTINF:-1 tvg-id="Telugu Filmnagar" tvg-logo="" group-title="Telugu",Telugu Filmnagar
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCintIUOJEktQBfhEI9XXpuw
+#EXTINF:-1 tvg-id="Mango Telugu Cinema" tvg-logo="" group-title="Telugu",Mango Telugu Cinema
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCvr9er7PzdGlJzGYsMAuJCQ
+#EXTINF:-1,tvg-id="Rashi Telugu HD" tvg-logo="" group-title="Telugu",Rashi Telugu HD
+http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
+#EXTINF:-1 tvg-id="A1 TV Telugu News" tvg-logo="" group-title="Telugu",A1 TV Telugu News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCx0GolXyQx9mi9ci0RegvZQ
+#EXTINF:-1,tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="Telugu",CVR News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCQ_FATLW83q-4xJ2fsi8qAw
+#EXTINF:-1,tvg-id="Studio One Plus" tvg-logo="" group-title="Telugu",Studio One Plus
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCEoaVUxpFlmCxwRBy9yhb1Q
+#EXTINF:-1,tvg-name="TV9 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="Telugu",TV9 News
+https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8
+#EXTINF:-1,tvg-id="HMtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="Telugu",HMtv
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCNZOrs1QBt8cJnv9ud96qRA
+#EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="Telugu",Ntv Telugu
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCumtYpCY26F6Jr3satUgMvA
+#EXTINF:-1,tvg-name="TV5 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="Telugu",TV5 News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCAR3h_9fLV82N2FH4cE4RKw
+#EXTINF:-1,tvg-id="10TV News HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="Telugu",10TV News HD
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCfymZbh17_3T_UhgjkQ9fRQ
+#EXTINF:-1,tvg-id="Studio Yuva" tvg-logo="" group-title="Telugu",Studio Yuva
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCqR2tCs8ufgAjRd6rn4a2wg
+#EXTINF:-1,tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="Telugu",CVR News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCixD-KrpjXtMupkzkdFFlFg
+#EXTINF:-1,tvg-id="SVBC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/svbc_in.png" group-title="Telugu",SVBC
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
+#EXTINF:-1,tvg-id="Hindu Dharmam" tvg-logo="" group-title="Telugu",Hindu Dharmam
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCMg2yY8OzHhw6mOvgIkaXYg
+#EXTINF:-1,tvg-id="TV Asia తెలుగు" tvg-logo="" group-title="Telugu",TV Asia తెలుగు
+https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
+#EXTINF:-1,tvg-id="CVR OM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Telugu",CVR OM
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCR8J_jCh3T1nL6k5aKTLo7A
+#EXTINF:-1,tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="Telugu",Bhakthi TV
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCSzOZ97LOpU-_AVlGfmD4rQ
+#EXTINF:-1,tvg-id="Sai TV Telugu" tvg-logo="" group-title="Telugu",Sai TV Telugu
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCfP_lkE3WWR4r8Zkr98A56Q
+
