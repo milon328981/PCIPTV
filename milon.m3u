@@ -278,11 +278,11 @@ http://103.157.237.18:8000/play/313
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/Ct2gmRL.png",Utsav Plus
 
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/dNoo87s.png",&TV
-http://103.205.133.19/hls/andtv.m3u8
+
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/dNoo87s.png",&TV SD
-http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
+
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/dNoo87s.png",&TV HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6234
+http://103.157.237.18:8000/play/328
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png",Big Magic
 http://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 
