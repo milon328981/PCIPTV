@@ -1188,11 +1188,11 @@ http://pn.tvott.info/live/307271135111/307271135111/83980.m3u8
 https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9027
 #EXTINF:-1,tvg-id="KUSHI TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kushi_tv.png" group-title="Telugu",KUSHI TV
 https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26571
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU | ZEE TELUGU HD 1" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title=",TELUGU | ZEE TELUGU HD
-http://212.224.98.196:2200/R-EX/TELUGU_ZEE_TELUGU_HD-in/index.m3u8?token=rk
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU | ZEE TELUGU HD 2" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title=",TELUGU | ZEE TELUGU HD
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | ZEE TELUGU HD 1" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu", ZEE TELUGU HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | ZEE TELUGU HD 2" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu", ZEE TELUGU HD
 http://pn.tvott.info/live/307271135111/307271135111/83982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELUGU | ZEE TELUGU 1" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title=",TELUGU | ZEE TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | ZEE TELUGU 1" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu",ZEE TELUGU
 
 #EXTINF:-1 tvg-name="ZEE CINEMALU HD 1" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU HD
 http://pn.tvott.info/live/307271135111/307271135111/83983.m3u8
