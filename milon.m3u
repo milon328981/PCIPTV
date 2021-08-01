@@ -1568,22 +1568,6 @@ https://58.pkcast123.me:999/hls/saUgXjxtZ220190901.m3u8
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Funtime",
 http://tv.pmcon.net/hls/stream39.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SK Traders-BDIX (সবার চলবে না)", Sony Six HD 
-http://tv.pmcon.net/hls/stream10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="SK Traders-BDIX (সবার চলবে না)", Star Sports 1 HD 
-http://tv.pmcon.net/hls/stream15.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="SK Traders-BDIX (সবার চলবে না)", Star Sports 2 HD 
-http://tv.pmcon.net/hls/stream16.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="SK Traders-BDIX (সবার চলবে না)", Star Sports Select 1 HD 
-http://tv.pmcon.net/hls/stream12.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="SK Traders-BDIX (সবার চলবে না)", Ten Cricket 
-http://tv.pmcon.net/hls/stream34.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="SK Traders-BDIX (সবার চলবে না)", Al Jazeera 
-http://tv.pmcon.net/hls/stream35.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJTT2Pq.png" group-title="SK Traders-BDIX (সবার চলবে না)", BBC World 
-http://tv.pmcon.net/hls/stream36.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJMc4VQ.png" group-title="SK Traders-BDIX (সবার চলবে না)", Macca 
-http://tv.pmcon.net/hls/stream33.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="" group-title="Ban Vs Zim",Ban Vs Zim Live
