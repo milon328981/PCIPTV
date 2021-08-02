@@ -169,7 +169,7 @@ http://103.81.104.118/hls/stream14.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="Hindi Movies",Star gold 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",Sony Max HD
-
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",Sony Max HD 2
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",Sony Max HD 3
