@@ -1198,9 +1198,9 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCfP_lkE3WWR4r8Zkr98A56Q
 
 
 
-#EXTINF:-1 tvg-logo="https://sportstar.thehindu.com/cricket/article28078207.ece/BINARY/ausvsbanjpg" group-title="BAN VS AUS",BAN VS AUS LIVE 1
+#EXTINF:-1 tvg-logo="https://sportstar.thehindu.com/cricket/article28078207.ece/BINARY/ausvsbanjpg" group-title="Sports Live Event",BAN VS AUS LIVE 1
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://sportstar.thehindu.com/cricket/article28078207.ece/BINARY/ausvsbanjpg" group-title="BAN VS AUS",BAN VS AUS LIVE 2
+#EXTINF:-1 tvg-logo="https://sportstar.thehindu.com/cricket/article28078207.ece/BINARY/ausvsbanjpg" group-title="Sports Live Event",BAN VS AUS LIVE 2
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
 
