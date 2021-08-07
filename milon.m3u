@@ -1199,9 +1199,9 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCfP_lkE3WWR4r8Zkr98A56Q
 
 
 #EXTINF:-1 tvg-logo="https://sportstar.thehindu.com/cricket/article28078207.ece/BINARY/ausvsbanjpg" group-title="Sports Live Event",BAN VS AUS LIVE 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628271752/ei/KCANYd_3F8rX3LUPlauiiA0/ip/123.253.65.153/id/aRmiV9lohMg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO-rAju8aMZjtzEjFZ6deCNm2rWUpkm4643lphCU1DxQAiAHnK4TQOHU8UFtRcYymkpi-M31IxYIGnYa36ykFm8qZQ%3D%3D/file/index.m3u8
+/
 #EXTINF:-1 tvg-logo="https://sportstar.thehindu.com/cricket/article28078207.ece/BINARY/ausvsbanjpg" group-title="Sports Live Event",BAN VS AUS LIVE 3 Fancode
-https://fancodealive1-a.akamaihd.net/48fd929c983c48aa84ef01e9ea7ea382/ap-south-1/6008340455001/playlist_dvr.m3u8?hdnea=exp=1628279360~acl=*~id=116502193_VHwOsYkI9qlSxbYy~data=116502193~hmac=8c0aafcab0d435bd86c08159c6a8b2b6e8b729da3122c066e0d2cf0b94061124&deviceId=Linux
+https://fancodealive1-a.akamaihd.net/195c6d97790547bf978326aa5e70f1a2/ap-south-1/6008340455001/playlist_dvr.m3u8?hdnea=exp=1628366029~acl=*~id=116502193_z7wCohywYw2-N8_S~data=116502193~hmac=221d8ca09eaa51936ca861d007c317b8d183aa8936578c1df365a6675b417bda&deviceId=Linux%20armv8l
 
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/atnbangla.jpg" group-title="INTERNET TV" ,Atn Bangla
