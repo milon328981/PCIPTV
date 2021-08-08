@@ -3,7 +3,7 @@
 https://drive.google.com/uc?export=download&id=1FycundY8-PYl5ADAjCA_krs9Q3fPeG7-
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg" group-title="Bangla",Gazi tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628271752/ei/KCANYd_3F8rX3LUPlauiiA0/ip/123.253.65.153/id/aRmiV9lohMg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO-rAju8aMZjtzEjFZ6deCNm2rWUpkm4643lphCU1DxQAiAHnK4TQOHU8UFtRcYymkpi-M31IxYIGnYa36ykFm8qZQ%3D%3D/file/index.m3u8
+http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8?nimblesessionid=1156994
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/nagoriktvhd.jpg" group-title="Bangla",Nagorik 2
 http://103.81.104.118/hls/stream24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla",
@@ -46,11 +46,13 @@ http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg " group-title="Bangla",Masranga tv 2
 https://cdn.ihub.live/j-Maasranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg " group-title="Bangla",Masranga tv 3
-http://tv.pmcon.net/hls/stream20.m3u8
+http://stream.dhakaflix.com:8081/live/maasranga.m3u8/chunks.m3u8?nimblesessionid=1157011
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/vxZ6Myf/deepto-television-removebg-preview.png",Deepto Tv-1
 http://103.43.148.202:1931/iptv/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
+http://stream.dhakaflix.com:8081/hls/ntv.m3u8/chunks.m3u8?nimblesessionid=1157001
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
-http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
+http://stream.dhakaflix.com:8081/hls/rtv.m3u8/chunks.m3u8?nimblesessionid=1156999
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG " group-title="Bangla",Mohona tv
 http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanshad tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg " group-title="Bangla",Sanshad tv
@@ -81,7 +83,7 @@ http://103.81.104.118/hls/stream30.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla HD 3
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg" group-title="INDIAN BANGLA",Sony Aath
-https://cutt.ly/TQzWAfb
+http://stream.dhakaflix.com:8081/Sonyaath/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg" group-title="INDIAN BANGLA",Sony Aath 2
 http://bd.digiiptv.net:25461/moznu43/PA2443/566
@@ -111,8 +113,8 @@ http://103.81.104.118/hls/stream27.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/jalsha_movies.jpg" group-title="INDIAN BANGLA",Jalsha Movies 2
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/jalsha_movies.jpg" group-title="INDIAN BANGLA",Jalsha Movies 3
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://mpng.subpng.com/20181216/oea/kisspng-television-channel-kolkata-ruposhi-bangla-bengali-ruposhi-bangla-tv-serial-5c1687910255f3.6522175015449803690096.jpg" group-title="INDIAN BANGLA",Ruposhi Bangla
+http://stream.dhakaflix.com:8081/hls/ruposhibangla.m3u8/chunks.m3u8?nimblesessionid=1157005
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="INDIAN BANGLA",Zee_Bangla_Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="INDIAN BANGLA",Zee_Bangla_Cinema 2
@@ -708,13 +710,13 @@ http://mygoodstream.pw/proxy.php/http://185.180.221.194:8278/streams/d/Bbcearth/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports -1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports -2
-http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/1142.m3u8?token=rk&token=GRtQWBcJRgkUA10IUVNXCFQHWwAKVgoFCwJWVwoIWQRbAAsAVAUBA1dEFRNHERFUVg9mX11EAlADAlMYG0wSVhBmUV1GW0YAA1QBABZJQUVeD1wUA1YUQ0JfBRYDG1QHUg8aFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUAIDQ1VQ0gRVQlMX0AXGhMNQHtyG0oaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbCQ1SVFERSw==
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 3
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 3
+http://stream.dhakaflix.com:8081/live/nk-tsports/chunks.m3u8?nimblesessionid=1157147
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports ebox
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports (1)
-http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+http://stream.dhakaflix.com:8081/live/ptvsports.m3u8/chunks.m3u8?nimblesessionid=1157239
 #EXTINF:-1 group-title="Sports" https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports (4)
 http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.news18.com/ibnlive/uploads/2020/05/1590663909_sonyliv2-1.jpg",Sony Live
@@ -784,6 +786,8 @@ http://221.120.204.4/TEN-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png",Ten Cricket
 http://103.81.104.118/hls/stream34.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png",Ten Cricket 2
+http://stream.dhakaflix.com:8081/hls/stream34.m3u8/chunks.m3u8?nimblesessionid=1157241
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/JLgyMN9.png",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png",Sony Ten 3
@@ -801,13 +805,13 @@ http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png",Star Sports 1 (Bangla)
 http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/502.m3u8?token=GRtQWBcJRgkUVlwIVlBbCVIDCFBdAABXBQ4ABA0MUAMEDQ5YVFRXClREFRNHERFUVg9mX11EAlQCBE0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bC1YEUQ0aFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUAICABRQ0gRVQlMX0AXGhMNQHtyG0oaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbDAhUVEZO
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png",Star Sports 1 (3)
-
+http://stream.dhakaflix.com:8081/play/604/chunks.m3u8?nimblesessionid=1157243
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_2_in.png",Star Sports 2 HD (1)
 http://103.153.39.34:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_2_in.png",Star Sports 2 HD (2)
 http://103.81.104.118/hls/stream16.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_2_in.png",Star Sports 2 HD (3)
-
+http://stream.dhakaflix.com:8081/play/604/chunks.m3u8?nimblesessionid=1157243
 #EXTINF:-1 group-title="।Sports" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_2_in.png",Star Sports 2 HD Ebox
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/MG705fX/download-removebg-preview.png",Star Sports Select 1 HD (1)
@@ -867,7 +871,7 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14991
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/K8VuGiN.png",bEIN Sports 7
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14993
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png",bEIN Sports xtra (English)
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+http://stream.dhakaflix.com:8081/live/bensportsextra/chunks.m3u8?nimblesessionid=1157227
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",bEIN Sports 2
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png",bEIN Sports 1 Max
