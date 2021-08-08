@@ -92,7 +92,7 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/566
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD
 http://103.81.104.118/hls/stream31.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD 2
-
+http://stream.dhakaflix.com:8081/live/starjolsha/chunks.m3u8?nimblesessionid=1157335
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD 3
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/colorsbangla.jpg" group-title="INDIAN BANGLA",Colors Bangla HD
@@ -110,7 +110,7 @@ http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/jalsha_movies.jpg" group-title="INDIAN BANGLA",Jalsha Movies
 http://103.81.104.118/hls/stream27.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/jalsha_movies.jpg" group-title="INDIAN BANGLA",Jalsha Movies 4
-
+http://stream.dhakaflix.com:8081/live/jolshamovies/chunks.m3u8?nimblesessionid=1157333
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/jalsha_movies.jpg" group-title="INDIAN BANGLA",Jalsha Movies 2
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://mpng.subpng.com/20181216/oea/kisspng-television-channel-kolkata-ruposhi-bangla-bengali-ruposhi-bangla-tv-serial-5c1687910255f3.6522175015449803690096.jpg" group-title="INDIAN BANGLA",Ruposhi Bangla
