@@ -1214,6 +1214,18 @@ http://103.81.104.118/hls/t-sports.m3u8
 http://103.81.104.118/hls/stream17.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/gtv.jpg" group-title="INTERNET TV" ,GAZI TV
 http://103.81.104.118/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/71.jpg" group-title="INTERNET TV" ,EKATTOR TV
+http://103.81.104.118/hls/71.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="INTERNET TV" ,CHANNEL 9
+http://103.81.104.118/hls/stream44.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="INTERNET TV" ,NATIONAL GEO WILED
+http://103.81.104.118/hls/stream47.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INTERNET TV" ,
+
+#EXTINF:-1 tvg-logo="" group-title="INTERNET TV" ,
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/dbc.png" group-title="INTERNET TV" ,DBC NEWS
+http://103.81.104.118/hls/dbc.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/dipto.jpg" group-title="INTERNET TV" ,DEEPTO TV
 http://103.81.104.118/hls/dipto.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/channeli.jpg" group-title="INTERNET TV" ,Channel I
@@ -1228,8 +1240,13 @@ http://103.81.104.118/hls/stream21.m3u8
 http://103.81.104.118/hls/stream22.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/nagoriktvhd.jpg" group-title="INTERNET TV" ,Nagorik TV
 http://103.81.104.118/hls/stream24.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INTERNET TV" ,
 
+#EXTINF:-1 tvg-logo="" group-title="INTERNET TV" ,
 
+#EXTINF:-1 tvg-logo="" group-title="INTERNET TV" ,
+
+#EXTINF:-1 tvg-logo="" group-title="INTERNET TV" ,
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/enter10bangla.jpg" group-title="INTERNET TV" ,Enterr10 Bangla
 http://103.81.104.118/hls/stream26.m3u8
@@ -1261,7 +1278,7 @@ http://103.81.104.118/hls/stream29.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/colorscineplex.jpg" group-title="INTERNET TV" ,Star Plus HD
 http://103.81.104.118/hls/stream38.m3u8
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="INTERNET TV" ,Sony Max HD
-http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
+http://103.81.104.118/hls/sonymax.m3u8
 
 
 
