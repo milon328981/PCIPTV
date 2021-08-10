@@ -3,7 +3,7 @@
 https://drive.google.com/uc?export=download&id=1FycundY8-PYl5ADAjCA_krs9Q3fPeG7-
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg" group-title="Bangla",Gazi tv
-http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8?nimblesessionid=1156994
+http://103.81.104.118/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/nagoriktvhd.jpg" group-title="Bangla",Nagorik 2
 http://103.81.104.118/hls/stream24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla",
@@ -1207,8 +1207,15 @@ https://fancodealive1-a.akamaihd.net/75927a46e09c43f782d0550ca18afc29/ap-south-1
 #EXTINF:-1 tvg-logo="https://sportstar.thehindu.com/cricket/article28078207.ece/BINARY/ausvsbanjpg" group-title="Sports Live Event",BAN VS AUS LIVE 3 Fancode
 https://fancodealive1-a.akamaihd.net/75927a46e09c43f782d0550ca18afc29/ap-south-1/6008340455001/playlist_dvr.m3u8?hdnea=exp=1628538562~acl=*~id=116502193_h6p26e1fqBkVPEZr~data=116502193~hmac=0e9a3d4fe9efef346b75ec1ba02a775ad01b40c11bbd697a886a78eb280c56d4&deviceId=Linux%20armv8l
 
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/tsports.jpg" group-title="INTERNET TV" ,T SPORTS HD
+http://103.81.104.118/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/atnbangla.jpg" group-title="INTERNET TV" ,Atn Bangla
 http://103.81.104.118/hls/stream17.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/gtv.jpg" group-title="INTERNET TV" ,GAZI TV
+http://103.81.104.118/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/dipto.jpg" group-title="INTERNET TV" ,DEEPTO TV
+http://103.81.104.118/hls/dipto.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/channeli.jpg" group-title="INTERNET TV" ,Channel I
 http://103.81.104.118/hls/stream18.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/maasranga.jpg" group-title="INTERNET TV" ,Maasranga Television
