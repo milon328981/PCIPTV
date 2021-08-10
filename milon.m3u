@@ -1218,6 +1218,8 @@ http://103.81.104.118/hls/Gazi-TV.m3u8
 http://103.81.104.118/hls/dipto.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/channeli.jpg" group-title="INTERNET TV" ,Channel I
 http://103.81.104.118/hls/stream18.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/gan.jpg" group-title="INTERNET TV" ,Gaan Bangla
+http://103.81.104.118/hls/Gan.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/maasranga.jpg" group-title="INTERNET TV" ,Maasranga Television
 http://103.81.104.118/hls/stream20.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/channel24.jpg" group-title="INTERNET TV" ,Somoy TV
