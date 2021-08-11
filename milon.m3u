@@ -7,7 +7,7 @@ http://103.81.104.118/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/nagoriktvhd.jpg" group-title="Bangla",Nagorik 
 http://103.81.104.118/hls/stream24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/ntv.jpg" group-title="Bangla",NTV
-https://cdn.ihub.live/NTV/tracks-v1a1/mono.m3u8?token=fbdfd28e2b8d014e00a1f7711836bc76ac46356a-f4f6cc5b5948674d261a8c0c7abc1e9a-1628670197-1628659397
+https://cutt.ly/sQPioJV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla",
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="Bangla",Dbc News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
@@ -52,7 +52,7 @@ http://stream.dhakaflix.com:8081/live/maasranga.m3u8/chunks.m3u8?nimblesessionid
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/vxZ6Myf/deepto-television-removebg-preview.png",Deepto Tv-1
 http://103.43.148.202:1931/iptv/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
-http://stream.dhakaflix.com:8081/hls/ntv.m3u8/chunks.m3u8?nimblesessionid=1157001
+https://cutt.ly/sQPioJV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
 http://stream.dhakaflix.com:8081/hls/rtv.m3u8/chunks.m3u8?nimblesessionid=1156999
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG " group-title="Bangla",Mohona tv
