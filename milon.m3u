@@ -334,100 +334,100 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24
 
 
 
-                      World Movies
+                     English Movies
 
 
 
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://i.ibb.co/JKkbBdC/favpng-logo-hbo-now.png",HBO
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/JKkbBdC/favpng-logo-hbo-now.png",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://i.ibb.co/JKkbBdC/favpng-logo-hbo-now.png",HBO 2
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/JKkbBdC/favpng-logo-hbo-now.png",HBO 2
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/5.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="http://103.109.56.115/skynet@8080/ftpdata/live_TV/gUu2nMa.png",HBO Hits
+#EXTINF:-1 group-title="English Movies" tvg-logo="http://103.109.56.115/skynet@8080/ftpdata/live_TV/gUu2nMa.png",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/5.m3u8
 
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://i.ibb.co/JKkbBdC/favpng-logo-hbo-now.png",HBO
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/JKkbBdC/favpng-logo-hbo-now.png",HBO
 http://tv2.ebox.live:8080/live/hbo.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://is.gd/EgS8JD",HBO Family
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://is.gd/EgS8JD",HBO Family
 http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://i.imgur.com/BPtN337.png",Family Flix
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/BPtN337.png",Family Flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://tbivision.com/files/2017/03/paramount-channel.png",Paramount
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://tbivision.com/files/2017/03/paramount-channel.png",Paramount
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://tbivision.com/files/2017/03/paramount-channel.png",Paramount
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://tbivision.com/files/2017/03/paramount-channel.png",Paramount
 http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://i.imgur.com/Hxk0VkI.png",Thrill Tv
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/Hxk0VkI.png",Thrill Tv
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://www.desifree.tv/wp-content/uploads/horror-channel.jpg",Horror Channel
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://www.desifree.tv/wp-content/uploads/horror-channel.jpg",Horror Channel
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/uk-horror.stream/playlist.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png",Cinemax
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png",Cinemax
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://i.ibb.co/TYVhJDr/priv-HD.png",&Prive (1)
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/TYVhJDr/priv-HD.png",&Prive (1)
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://i.ibb.co/TYVhJDr/priv-HD.png",&Prive (2)
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/TYVhJDr/priv-HD.png",&Prive (2)
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png", Movies Now
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png", Movies Now
 http://103.153.39.34:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix 1
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix 1
 https://is.gd/ObFrpt
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix 2
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix 2
 http://103.81.104.118/hls/stream1.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix 3
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix 3
 
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix 4
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix 4
 
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix - 2
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix - 2
 https://tamilbreak.com/jiotv/live.php?c=Sony_Pix_HD&q=1200&e=.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix SD 
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix SD 
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix SD
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix SD
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix SD
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix SD
 http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png",SyFy
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png",SyFy
 http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://i.ibb.co/NZtPcJD/FJTb-Kw-JA-1.png",Colors Infinity
+#EXTINF:-1 group-title="English MoviesWorld (Movies)" tvg-logo="https://i.ibb.co/NZtPcJD/FJTb-Kw-JA-1.png",Colors Infinity
 
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",MBC 1
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",MBC 1
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",MBC 1
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",MBC 1
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 2 (1)
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 2 (1)
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 2 (2)
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 2 (2)
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 3
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 4
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png",MBC Max (1)
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png",MBC Max (1)
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-TINF:-1 group-title="World (Movies)" tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png",MBC Max (2)
+TINF:-1 group-title="English Movies" tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png",MBC Max (2)
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-TINF:-1 group-title="World (Movies)" tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png",MBC Action
+TINF:-1 group-title="English Movies" tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png",MBC Action
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://e7.pngegg.com/pngimages/248/139/png-clipart-fox-action-movies-fox-movies-television-channel-fox-international-channels-action-film-others-miscellaneous-television.png",Fox Movies Action
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://e7.pngegg.com/pngimages/248/139/png-clipart-fox-action-movies-fox-movies-television-channel-fox-international-channels-action-film-others-miscellaneous-television.png",Fox Movies Action
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/15114
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://is.gd/nKrTKX",Fox Crime
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://is.gd/nKrTKX",Fox Crime
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/3814
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="http://103.81.104.118/img/axn.jpg",AXN
+#EXTINF:-1 group-title="English Movies" tvg-logo="http://103.81.104.118/img/axn.jpg",AXN
 http://103.81.104.118/hls/stream2.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://is.gd/aikPwd",Star Movies HD
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://is.gd/aikPwd",Star Movies HD
 http://103.81.104.118/hls/stream3.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://is.gd/aikPwd",Star Movies SD
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://is.gd/aikPwd",Star Movies SD
 
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://is.gd/aikPwd",Star Movies HD
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://is.gd/aikPwd",Star Movies HD
 http://103.81.104.118/hls/stream3.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://tinyurl.com/2zphjmt7",Star Movies
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://tinyurl.com/2zphjmt7",Star Movies
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://tinyurl.com/2zphjmt7",Star Movies Select HD (2)
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://tinyurl.com/2zphjmt7",Star Movies Select HD (2)
 
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg",Utv Action
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg",Utv Action
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg",Utv Action 2
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg",Utv Action 2
 http://103.81.104.118/hls/stream7.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg",Utv Action
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg",Utv Action
 
 
 
