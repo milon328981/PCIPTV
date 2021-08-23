@@ -7,15 +7,6 @@
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0273/2077/8863/files/Copy_of_Untitled_11.png?v=1608186860" group-title="Bangla",IPTV By Super Duper IPTV
 https://drive.google.com/uc?export=download&id=1FycundY8-PYl5ADAjCA_krs9Q3fPeG7-
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg" group-title="Bangla",Gazi tv
-http://103.81.104.118/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/nagoriktvhd.jpg" group-title="Bangla",Nagorik 
-http://103.81.104.118/hls/stream24.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/ntv.jpg" group-title="Bangla",NTV
-https://cutt.ly/sQPioJV
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/ntv.jpg" group-title="Bangla",NTV 2
-https://cutt.ly/JQPp6W5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla",
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="Bangla",Dbc News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png " group-title="Bangla",News 24
