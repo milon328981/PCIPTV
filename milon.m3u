@@ -983,97 +983,112 @@ http://103.157.237.18:8000/play/313
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor HD" tvg-logo="" group-title="ICC Server TV",Ekattor HD
+http://10.16.100.205:8082/bangla/ekattor_tv_local_bD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",T Sports HD
+http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="ICC Server TV",NTV
+http://10.16.100.205:8082/bangla/nTv_localBd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="ICC Server TV",RTV
+http://10.16.100.203:8082/bangla/rTV_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="" group-title="ICC Server TV",ATN News
+http://10.16.100.205:8082/bangla/aTnnews_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="" group-title="ICC Server TV",Banglavision HD
+http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV HD" tvg-logo="" group-title="ICC Server TV",Bijoy TV HD
+http://10.16.100.201:8082/bangla/biJoy_TV_Local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="" group-title="ICC Server TV",Channel 24
+http://10.16.100.205:8082/bangla/Chanel24_local_bD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News HD" tvg-logo="" group-title="ICC Server TV",DBC News HD
+http://10.16.100.201:8082/bangla/dBc_news_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="ICC Server TV",Desh TV
+http://10.16.100.205:8082/bangla/dESh_tv_local_BD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Digi Bangla 24 HD" tvg-logo="" group-title="ICC Server TV",Digi Bangla 24 HD
+http://10.16.100.201:8082/bangla/digibangLa_HD_24_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="" group-title="ICC Server TV",Ekushey TV
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GAZI TV HD" tvg-logo="" group-title="ICC Server TV",GAZI TV HD
+http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="" group-title="ICC Server TV",Jamuna TV
+http://10.16.100.201:8082/bangla/jaMuna_tv_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV HD" tvg-logo="" group-title="ICC Server TV",Mohona TV HD
+http://10.16.100.205:8082/bangla/MoHoNa_tV_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My TV HD" tvg-logo="" group-title="ICC Server TV",My TV HD
+http://10.16.100.205:8082/bangla/mYTv_local_bd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&TV" tvg-logo="" group-title="ICC Server TV",&TV
+http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="" group-title="ICC Server TV",Colors
+http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="" group-title="ICC Server TV",Star Plus
+http://10.16.100.200:8082/hls/star_Plus_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee  Bangla" tvg-logo="" group-title="ICC Server TV",Zee  Bangla
+http://10.16.100.204:8082/hls/z_bangla_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="ICC Server TV",Colors Bangla
+http://10.16.100.204:8082/hls/coLors_bangla_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="" group-title="ICC Server TV",ATN Bangla
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&Pictures HD" tvg-logo="" group-title="ICC Server TV",&Pictures HD
+http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wow Cinema" tvg-logo="" group-title="ICC Server TV",Wow Cinema
+http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GaanBangla HD" tvg-logo="" group-title="ICC Server TV",GaanBangla HD
+http://10.16.100.200:8082/hls/gan_bangla_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="ICC Server TV",Sangeet Bangla
+http://10.16.100.200:8082/hls/songet_bangla_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV HD" tvg-logo="" group-title="ICC Server TV",Asian TV HD
+http://10.16.100.201:8082/bangla/asiAntv_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV HD" tvg-logo="" group-title="ICC Server TV",Bangla TV HD
+http://10.16.100.205:8082/bangla/bAnglA_tv_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="ICC Server TV",Channel i HD
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="" group-title="ICC Server TV",Sony Ten 2
+http://10.16.100.207:8082/sports/sony_ten2_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD 4" tvg-logo="" group-title="ICC Server TV",Star Sports 1 HD
+http://10.16.100.207:8082/sports/star_sports_1_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD 3" tvg-logo="" group-title="ICC Server TV",Star Sports Select 1
+http://10.16.100.207:8082/sports/star_sportsselect1_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gazi HD 2" tvg-logo="" group-title="ICC Server TV",Gazi HD 2
+http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Khusboo Bangla" tvg-logo="" group-title="ICC Server TV",Khusboo Bangla
+http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="" group-title="ICC Server TV",TSports
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="" group-title="ICC Server TV",Sony Aath
+http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",Nagorik TV
+http://10.16.100.201:8082/bangla/naGorik_Tv_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",News 24 HD
+http://10.16.100.203:8082/bangla/nEWs_24_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",Sony TV
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",Zee TV
+http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",Akash 8
+http://10.16.100.204:8082/hls/akash_aat_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",Kolkata TV
+http://10.16.100.204:8082/hls/kolkatatv_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",Sony 8
+http://10.16.100.204:8082/hls/sony_aat_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",Star Jalsha
+http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",B4U Movies
+http://10.16.100.208:8082/hindi/B4Umovies_1stop_in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",9XM
+http://10.16.100.200:8082/hls/nine_xm_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",B4U Music
+http://10.16.100.200:8082/hls/bforu_music_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",Dhoom Music
+http://10.16.100.200:8082/hls/Dhoom_music_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",Mastii
+http://10.16.100.200:8082/hls/m_tuNes_local.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/sristytv.jpg" group-title="Bangla",Sristy
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/sristytv.jpg" group-title="Bangla",Sristy
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Funtime",BTV
-http://103.109.56.116/live/skyfeed1001/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Channel S
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Ekattpr TV
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Colors Bangla HD
-http://103.109.56.116/live/skyfeed1012/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",News 24
-http://103.109.56.116/live/skyfeed1008/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Nick
-http://103.109.56.116/live/skyfeed1014/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",EBC Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w148901920.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Animal Planet Eng
-http://103.109.56.116/live/skyfeed1016/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Discovery HD
-http://103.109.56.116/live/skyfeed1015/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Animal Planet 2 Eng
-http://103.109.56.116/live/skyfeed1016/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Nat Geo Abudhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Wixlar
-http://web.onair-radio.eu:1935/wixlar/wixlar/chunklist_w1242293164.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Sony six
-http://103.109.56.116/live/skyfeed1025/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Sony Ten 1
-http://103.109.56.116/live/skyfeed1017/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Sony Ten 3
-http://103.109.56.116/live/skyfeed1019/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Star sports 1
-http://103.109.56.116/live/skyfeed1023/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Star sports 3
-http://103.109.56.116/live/skyfeed1022/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",EuroSports
-http://103.109.56.116/live/skyfeed1026/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Abudhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Manoranjan Movies
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_360p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Cinemax
-https://dai.google.com/linear/hls/pb/event/TSIJo6RCRZWuCD9WrKtRFg/stream/13402649-ef2d-4bdd-b075-b90c1b44bfd2:SIN/variant/98383d315bae12ef6695278700bce70f/bandwidth/3072000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Thrill
-http://45.126.83.51/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Music India
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Kadak-hits
-https://live.hungama.com/linear/kadak-hits/playlist_240p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Pop Pataakha
-https://live.hungama.com/linear/pop-pataka/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Dee Jay
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Ru TV
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",ID Hd
-http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",And Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",BT Sports
-https://58.pkcast123.me:999/hls/saUgXjxtZ220190901.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",Bein Sports Xtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Funtime",
-
-
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Internet TV", ATN Bangla
 http://103.81.104.118/hls/atn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Internet TV", Channel I
