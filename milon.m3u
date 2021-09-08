@@ -79,7 +79,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/71bangla.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_350,h_197,c_scale,f_auto,q_auto/resources/0-9-zeebangla/channel_list/09zeebanglazeebangla.png" group-title="INDIAN BANGLA",Zee Bangla HD
 http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla HD 2
-
+http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8?token=1be1319c1d12c5adba0c92883a93d19c9040e05e-41c2f3874270e12e150fc6e78cd8edb3-1631099583-1631088783&remote=103.117.195.195
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla HD 3
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg" group-title="INDIAN BANGLA",Sony Aath
@@ -91,7 +91,7 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/566
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/200?cb=20210520142429" group-title="INDIAN BANGLA",Star Jalsha HD
 http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD 2
-
+http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD 3
 
 
@@ -710,7 +710,7 @@ http://mygoodstream.pw/proxy.php/http://185.180.221.194:8278/streams/d/Bbcearth/
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports -1
-https://cdn.nowhdtime.com.bd/GAZI/index.m3u8
+https://rebrand.ly/T-Sports-Milon
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports -2
 
